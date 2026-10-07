@@ -1,0 +1,9 @@
+apiVersion: 1
+providers:
+  - name: CI Platform
+    orgId: 1
+    folder: CI Platform
+    type: file
+    disableDeletion: true
+    options:
+      path: /var/lib/grafana/dashboards

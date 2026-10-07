@@ -1,0 +1,6 @@
+apiVersion: v2
+name: ci-platform
+description: Secure and observable deployment for the CI platform API
+type: application
+version: 0.1.0
+appVersion: "1.0.0"

@@ -1,0 +1,12 @@
+target/
+.venv/
+__pycache__/
+.pytest_cache/
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+!.terraform.tfvars.example
+.env
+.idea/
+.vscode/
